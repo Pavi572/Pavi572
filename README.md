@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Pavi572
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Pavi572/Pavi572 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Pavithra S from Engineering background
+- 👀 I’m interested in DSA,problem solving
+- 🌱 I’m currently learning backend
+- 💞️ I’m looking to collaborate on appdevelopment and web development team
+- 📫 you can contact me via pavithrasenthil572@gmail.com
+- 😄 Pronouns: she
+- ⚡ Fun fact: Very interesting in software Development bit now focusing more about DSA
